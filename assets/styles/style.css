@@ -239,7 +239,7 @@ table {
 }
 
 body {
-    background-color: var(--background-color);
+    background-image: url("../images/background.png")
     /* background-image: url("../images/background.png"); */
     background-size: cover;
     background-repeat: no-repeat;
